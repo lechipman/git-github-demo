@@ -1,1 +1,2 @@
-# git-github-demo - practice using github
+git-github-demo
+practice using github
