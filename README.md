@@ -1,2 +1,5 @@
-git-github-demo
+Make change 2
+Make change 1
+
+nanagit-github-demo
 practice using github
